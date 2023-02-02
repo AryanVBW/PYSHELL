@@ -39,6 +39,6 @@ $ sudo pip2 install python-nmap
 $ sudo pip2 install requests
 ````
 # Developer
-<h1>AryanVBW</H1>
+<h3>AryanVBW</h3>
 
 
