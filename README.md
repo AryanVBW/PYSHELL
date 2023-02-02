@@ -39,11 +39,6 @@ $ sudo pip2 install python-nmap
 $ sudo pip2 install requests
 ````
 # Developer
-<h4> Khaled Nassar </h4>
-<ul>
-   <li>Facebook  : <a href="https://www.facebook.com/profile.php?id=100015121337012">Khaled Nassar</a></li>
-   <li>Hackerone : <a href="https://hackerone.com/knassar702">Khaled Nassar</a></li>
-   <li>Twitter   : <a href="https://twitter.com/KhaledN61578686">Khaled Nassar</a></li>
-</ul>
+<h1>AryanVBW</H1>
 
 
